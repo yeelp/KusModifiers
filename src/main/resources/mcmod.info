@@ -1,0 +1,16 @@
+[
+{
+  "modid": "kusmodifiers",
+  "name": "KusModifiers",
+  "description": "Additional modifiers for Tinker's Construct.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Yeelp"],
+  "credits": "Kusanagi_Haxa for the commission.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
